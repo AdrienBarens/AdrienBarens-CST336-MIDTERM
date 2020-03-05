@@ -1,13 +1,19 @@
-.jumbotron {
-    font-size: medium;
-}
-
-#entry {
-    margin-right: 1em;
-    margin-left: 8em;
-}
-
 #btn {
     background-color: forestgreen;
     color: white;
+}
+
+.col-md-3 {
+    border-style: solid;
+    border-color: black;
+}
+
+#cover {
+    border: 5px;
+    border-radius: 10px;
+}
+
+#info {
+    margin: 50px;
+    font-size: 25px;
 }

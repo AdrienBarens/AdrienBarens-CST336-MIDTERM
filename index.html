@@ -9,13 +9,28 @@
 </head>
 <body>
 
-<div class="jumbotron">
-    <h1>Open Library</h1>
-    <p>Please enter the ISBN of the book you'd like to retrieve</p>
-    <label>ISBN</label>
-    <input id="entry" type="text">
-    <button id="btn" type="submit">Query</button>
+<div class="container">
+    <query>
+        <div class="jumbotron">
+            <h1>Open Library</h1>
+            <p>Please enter the ISBN of the book you'd like to retrieve</p>
+
+            <div class="row">
+                <label class="col-md-2">ISBN</label>
+                <input class="col-md-4" id="entry" type="text">
+                <button class="col-md-6" id="btn" type="submit">Query</button>
+            </div>
+        </div>
+    </query>
+    <result>
+        <div class="row" id="display">
+
+        </div>
+
+    </result>
+
 </div>
+
 
 <script src="js/app.js"></script>
 </body>

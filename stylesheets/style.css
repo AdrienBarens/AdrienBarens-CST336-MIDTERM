@@ -1,16 +1,18 @@
 #btn {
     background-color: forestgreen;
     color: white;
+    width: 100%;
 }
 
-.col-md-3 {
-    border-style: solid;
-    border-color: black;
+img {
+    width: 100%;
 }
 
 #cover {
     border: 5px;
     border-radius: 10px;
+    border-color: black;
+    border-style: solid;
 }
 
 #info {

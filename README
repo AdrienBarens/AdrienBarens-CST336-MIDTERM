@@ -1,0 +1,28 @@
+
+Question 1:
+
+a. Inline - by using the style attribute in HTML elements
+   Internal - by using a <style> element in the <head> section
+   External - by using an external CSS file
+
+b. margin is space between a element and another element
+   padding is the space between the box limits and the box's content
+
+Question 2:
+
+a. !=== check also that the type unlike !==
+
+b. False
+
+Question 3:
+[1,2,3,4,...,10000, 10001, 10002, ..., 100000]
+[1,2,3,4,...,10000, 10001, 10002, ..., 100000]
+
+Question 4:
+html
+ |->head
+ |   |->title
+ |->body
+ |   |->img
+ |   |->p
+ |   |  |->span

@@ -1,0 +1,13 @@
+.jumbotron {
+    font-size: medium;
+}
+
+#entry {
+    margin-right: 1em;
+    margin-left: 8em;
+}
+
+#btn {
+    background-color: forestgreen;
+    color: white;
+}
